@@ -11,6 +11,6 @@
    - Designing efficient regular expressions to extract data into an XML file
   
 2. Task 2:
-- Python code to preprocess a set of tweets and convert them into numerical representations (which are suitable for input into recommender-systems/ information-retrieval algorithms)
+- Python code to preprocess a set of tweets and convert them into numerical representations (which are suitable for input into recommender systems/ information-retrieval algorithms) based on the assignment specifications. 
 
 **Libraries used:** re, langid, od, nltk, nltk.collocations, nltk.tokenize, nltk.stem, nltk.probability, itertooks, sklearn.feature_extraction.text
